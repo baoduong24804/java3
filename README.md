@@ -1,4 +1,5 @@
 - Java Swing
-- JDBC to connect Database
+- SQL Server
+- JDBC
 - Socket TCP, UDP
 - URL
